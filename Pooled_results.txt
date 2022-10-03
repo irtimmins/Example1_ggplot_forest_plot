@@ -1,0 +1,2 @@
+Cases	Participants	log.HR	se.log.HR	P.val	log.HR.bmi	se.log.HR.bmi	P.val.bmi
+10231	547601	     -.07753	      .03438	      .02414	      -.1382	      .03475	   .00007007
